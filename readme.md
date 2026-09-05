@@ -1,4 +1,4 @@
-# 🧮 Python CLI Calculator
+#  Python CLI Calculator
 
 A simple, fast, and interactive Command-Line Interface (CLI) Calculator built in pure Python. It takes two numbers from the user and performs basic arithmetic operations based on the user's input.
 
